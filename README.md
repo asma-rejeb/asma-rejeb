@@ -1,9 +1,15 @@
-### Hi there 👋
-![logo](https://github.com/asma-rejeb/Asma_Rejeb/blob/main/giphy.gif)
-<h1 align="center">Hi 👋, I'm Asma Rejeb</h1>
+### 
+<h2 align="center">Hi there 👋I'm Asma Rejeb</h2>
+
 <h3 align="center">A passionate full-stack JS developer from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47n1nlocqj61huoqsasdn5n8454sp4pin8kuo0tala&rid=giphy.gif&ct=g"
+
+<h2 align="left">About me</h2>
+
+- 🔭 I’m currently studying **software engineering**
+
 - 🌱 I’m currently learning **NextJS**
+
+- 🤝 I’m currently **open for an Intern**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
