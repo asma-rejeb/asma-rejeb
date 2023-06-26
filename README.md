@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **software engineering**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS using TypeScript**
 
 - 🤝 I’m currently **open for an Intern**
 
